@@ -29,7 +29,7 @@
 }
 .navbar-brand {
   font-size: unset;
-  height: 3.5rem;
+  height: 2.5rem;
 }
 
 body {
@@ -43,6 +43,7 @@ body {
 #map-container {
   position: relative;
   margin: 0;
+  height: 100%;
 }
 
 #map {
